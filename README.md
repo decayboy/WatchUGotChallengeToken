@@ -1,5 +1,5 @@
 # WatchUGotChallengeToken
-<h1>ERC20 Token for the WatchUGot App & Wallet</h1>
+<h1>ERC20 Token for the WatchUGot Application & Wallet</h1>
 <h2>Solidity compiler</h2>
 <ul>
   <li>Build Version : 0.4.24+commit.e67f0147.Emscripten.clang</li>
