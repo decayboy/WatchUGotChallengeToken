@@ -4,7 +4,10 @@
 <ul>
   <li>Build Version : 0.4.24+commit.e67f0147.Emscripten.clang</li>
 </ul>
-![alt text](http://watchugot.online/assets/img/common/logo/logo-dark.png "Logo Title Text 1")
+Reference-style: 
+![alt text][logo]
+
+[logo]:(http://watchugot.online/assets/img/common/logo/logo-dark.png "Logo Title Text 1") "Logo Title Text 2"
 <h2>Description</h2>
 <ul>
   <li>The WatchUGot App http://watchugot.online: A global social challenge application for promoting and incentivizing charitable fundraising endeavors.</li>
