@@ -8,7 +8,7 @@
 <ul>
   <li>The WatchUGot App http://watchugot.online: A global social challenge application for promoting and incentivizing charitable fundraising endeavors.</li>
   <li>(WCT) A mintable ERC20 utility token for use in the WatchUGot wallet and game environment</li>
-  <li>To be used in conjunction with the WatchUGot (WUG) ERC223 deflationary token</li>
+  <li>Implemented in conjunction with the WatchUGot (WUG) ERC223 deflationary token & incentive model</li>
   <li>Legacy Application and current version is live and available:</li>
     <li>(IOS): https://itunes.apple.com/us/app/watchugot/id1322293285?ls=1&mt=8</li>
     <li>(Android): https://play.google.com/store/apps/details?id=com.watchugot</li>
