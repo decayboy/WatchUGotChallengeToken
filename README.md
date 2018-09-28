@@ -6,8 +6,8 @@
 </ul>
 <h2>Description</h2>
 <ul>
-  <li>The WatchUGot App https://wathcugot.co: A global social challenge application for promoting and incentivizing charitable fundraising endeavors.</li>
-  <li>The WatchUGot DApp http://wathcugot.online: The legacy (non-blokchain) version for the WatchUGot application
+  <li>The WatchUGot DApp https://wathcugot.co: A global social challenge application for promoting and incentivizing charitable fundraising endeavors.</li>
+  <li>The WatchUGot App http://wathcugot.online: The legacy (non-blokchain) version for the WatchUGot application
   <li>(WCT) A mintable ERC20 utility token for use in the WatchUGot wallet and game environment</li>
   <li>Implemented in conjunction with the WatchUGot (WUG) ERC223 deflationary token & incentive model</li>
   <li>Legacy Application and current version is live and available:</li>
